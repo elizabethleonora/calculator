@@ -1,2 +1,8 @@
-# calculator
-TDD workshop
+# Test Driven Development workshop
+
+## Objective
+abc
+
+## Intended audience
+abc
+
